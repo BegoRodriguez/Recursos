@@ -1,5 +1,5 @@
 # Recursos
-Compilación de recursos de programación
+Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos interesantes que he ido encontrando.
 
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) 
@@ -12,7 +12,15 @@ Desarrollo web Full Stack. También cursos de Python y aplicaciones como computa
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
 
 
-# Streamers
+# Streamers en español
 [MoureDev by Brais Moure](https://www.youtube.com/@mouredev) 
-Tutoriales de programación y desarrollo de software. Full Stack developer iOS y Android. Trabaja bastante con Python.
+Tutoriales de iniciación a la programación y desarrollo de software. Full Stack developer iOS y Android. Trabaja bastante con Python.
 
+[Midulive](https://www.youtube.com/@midulive)
+Streamings sobre Desarrollo FullStack con JavaScript 
+
+[Programación Android by AristiDevs](https://www.youtube.com/@AristiDevs)
+Desarrollo en Android
+
+[Securiters](https://www.youtube.com/@Securiters)
+Divulgación de contenido de ciberseguridad en Español
