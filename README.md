@@ -1,6 +1,10 @@
 # Recursos
 Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos interesantes que he ido encontrando.
 
+# Cursos
+[JetBrains Academy](https://academy.jetbrains.com/)
+Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
+
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) 
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: Stack Mern (MongoDB, Express, React y NodeJS) o Ruby/Ruby in Rails.
