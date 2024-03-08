@@ -8,6 +8,12 @@ Está organizado por materias o por áreas y cubre diferentes lenguajes incluyen
 [MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)
 Programa de certificación de MongoDB en Español (Bases de datos no relacionales).
 
+[Google Cloud](https://www.cloudskillsboost.google/paths)
+Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: 
+✅Data Analyst
+✅Data Engineer
+✅Database Engineer
+
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) 
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: Stack Mern (MongoDB, Express, React y NodeJS) o Ruby/Ruby in Rails.
