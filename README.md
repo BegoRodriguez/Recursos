@@ -1,5 +1,5 @@
 # Recursos
-Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos interesantes que he ido encontrando.
+Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos gratuitos que considero interesantes y he ido encontrando.
 
 # Cursos
 [JetBrains Academy](https://academy.jetbrains.com/)
