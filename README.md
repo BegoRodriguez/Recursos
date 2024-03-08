@@ -29,7 +29,7 @@ Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, 
 Tutoriales de iniciación a la programación y desarrollo de software. Full Stack developer iOS y Android. Trabaja bastante con Python.
 
 [Midulive](https://www.youtube.com/@midulive)
-Streamings sobre Desarrollo FullStack con JavaScript 
+Streamings sobre Desarrollo Full Stack con JavaScript 
 
 [Programación Android by AristiDevs](https://www.youtube.com/@AristiDevs)
 Desarrollo en Android
