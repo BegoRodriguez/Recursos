@@ -6,7 +6,7 @@ Compilación de recursos gratuitos de programación. No pretende ser extensiva, 
 Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
 
 [MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)
-Programa de certificación de MongoDB en Español.
+Programa de certificación de MongoDB en Español (Bases de datos no relacionales).
 
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) 
