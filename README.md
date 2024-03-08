@@ -32,7 +32,7 @@ Desarrollo en Android
 Programación en Java
 
 [Securiters](https://www.youtube.com/@Securiters)
-Divulgación de contenido de ciberseguridad en Español
+Podcast de divulgación de contenido de ciberseguridad en Español
 
 # Colecciones de recursos
 [Resources for learning Spring](https://github.com/spring-office-hours/resources-learning-spring) Colección de recursos para aprender Spring (en Inglés)
