@@ -33,6 +33,9 @@ Desarrollo web Full Stack. También cursos de Python y aplicaciones como computa
 [FullStackOpen](https://fullstackopen.com/en/)<br> 
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
 
+# Cursos IA Gratuitos
+[LinkedIn Learning]https://www.linkedin.com/pulse/cursos-gratuitos-para-desarrollar-habilidades-de-ia-sergio-r-sol%2525C3%2525ADs-yjpuf/?trackingId=TDPAryWjShiSJiN%2B29%2BaSQ%3D%3D
+
 # Streamers en español
 [MoureDev by Brais Moure](https://www.youtube.com/@mouredev) <br>
 Tutoriales de iniciación a la programación y desarrollo de software. Full Stack developer iOS y Android. Trabaja bastante con Python.
