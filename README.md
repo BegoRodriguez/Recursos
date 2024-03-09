@@ -10,16 +10,16 @@ Programa de certificación de MongoDB  (Bases de datos no relacionales) en espa�
 
 [Google Cloud](https://www.cloudskillsboost.google/paths)<br>
 Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: <br>
-✅Data Analyst<br>
-✅Data Engineer<br>
-✅Database Engineer<br>
+✅ Data Analyst<br>
+✅ Data Engineer<br>
+✅ Database Engineer<br>
 
 [Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
 En inglés, son gratuitos e incluyen rutas para:<br>
-✅Cybersecurity<br>
-✅Software Developer<br>
-✅Systems administrator<br>
-✅Data Analyst<br>
+✅ Cybersecurity<br>
+✅ Software Developer<br>
+✅ Systems administrator<br>
+✅ Data Analyst<br>
 
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) <br>
