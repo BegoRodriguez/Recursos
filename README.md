@@ -2,24 +2,24 @@
 Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos gratuitos que considero interesantes y he ido encontrando.
 
 # Cursos
-[JetBrains Academy](https://academy.jetbrains.com/)
+[JetBrains Academy](https://academy.jetbrains.com/)<br>
 Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
 
-[MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)
+[MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)<br>
 Programa de certificación de MongoDB  (Bases de datos no relacionales) en español.
 
-[Google Cloud](https://www.cloudskillsboost.google/paths)
+[Google Cloud](https://www.cloudskillsboost.google/paths)<br>
 Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: 
-✅Data Analyst
-✅Data Engineer
-✅Database Engineer
+✅Data Analyst<br>
+✅Data Engineer<br>
+✅Database Engineer<br>
 
 [Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) 
 En inglés, son gratuitos e incluyen rutas para:
-✅Cybersecurity
-✅Software Developer
-✅Systems administrator
-✅Data Analyst
+✅Cybersecurity<br>
+✅Software Developer<br>
+✅Systems administrator<br>
+✅Data Analyst<br>
 
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) 
