@@ -6,13 +6,20 @@ Compilación de recursos gratuitos de programación. No pretende ser extensiva, 
 Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
 
 [MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)
-Programa de certificación de MongoDB en español (Bases de datos no relacionales).
+Programa de certificación de MongoDB  (Bases de datos no relacionales) en español.
 
 [Google Cloud](https://www.cloudskillsboost.google/paths)
 Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: 
 ✅Data Analyst
 ✅Data Engineer
 ✅Database Engineer
+
+[Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) 
+En inglés, son gratuitos e incluyen rutas para:
+✅Cybersecurity
+✅Software Developer
+✅Systems administrator
+✅Data Analyst
 
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) 
