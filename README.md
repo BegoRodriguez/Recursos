@@ -9,13 +9,13 @@ Está organizado por materias o por áreas y cubre diferentes lenguajes incluyen
 Programa de certificación de MongoDB  (Bases de datos no relacionales) en español.
 
 [Google Cloud](https://www.cloudskillsboost.google/paths)<br>
-Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: 
+Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: <br>
 ✅Data Analyst<br>
 ✅Data Engineer<br>
 ✅Database Engineer<br>
 
-[Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) 
-En inglés, son gratuitos e incluyen rutas para:
+[Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
+En inglés, son gratuitos e incluyen rutas para:<br>
 ✅Cybersecurity<br>
 ✅Software Developer<br>
 ✅Systems administrator<br>
