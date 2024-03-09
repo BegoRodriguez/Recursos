@@ -34,20 +34,21 @@ Desarrollo web Full Stack. También cursos de Python y aplicaciones como computa
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
 
 # Streamers en español
-[MoureDev by Brais Moure](https://www.youtube.com/@mouredev) 
+[MoureDev by Brais Moure](https://www.youtube.com/@mouredev) <br>
 Tutoriales de iniciación a la programación y desarrollo de software. Full Stack developer iOS y Android. Trabaja bastante con Python.
 
-[Midulive](https://www.youtube.com/@midulive)
+[Midulive](https://www.youtube.com/@midulive)<br>
 Streamings sobre Desarrollo Full Stack con JavaScript 
 
-[Programación Android by AristiDevs](https://www.youtube.com/@AristiDevs)
+[Programación Android by AristiDevs](https://www.youtube.com/@AristiDevs)<br>
 Desarrollo en Android
 
-[TodoCode](https://www.youtube.com/@TodoCode)
+[TodoCode](https://www.youtube.com/@TodoCode)<br>
 Programación en Java
 
-[Securiters](https://www.youtube.com/@Securiters)
+[Securiters](https://www.youtube.com/@Securiters)<br>
 Podcast de divulgación de contenido de ciberseguridad en Español
 
 # Colecciones de recursos
-[Resources for learning Spring](https://github.com/spring-office-hours/resources-learning-spring) Colección de recursos para aprender Spring (en Inglés)
+[Resources for learning Spring](https://github.com/spring-office-hours/resources-learning-spring)<br> 
+Colección de recursos para aprender Spring (en Inglés)
