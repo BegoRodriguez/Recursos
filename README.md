@@ -15,7 +15,7 @@ Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para
 ✅ Database Engineer<br>
 
 [Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
-En inglés, son gratuitos e incluyen rutas para:<br>
+En español, son gratuitos e incluyen rutas para (entre otras):<br>
 ✅ Cybersecurity<br>
 ✅ Software Developer<br>
 ✅ Systems administrator<br>
