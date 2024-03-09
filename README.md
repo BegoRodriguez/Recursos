@@ -38,7 +38,7 @@ Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, 
 
 # Streamers en español
 [MoureDev by Brais Moure](https://www.youtube.com/@mouredev) <br>
-Tutoriales de iniciación a la programación y desarrollo de software. Full Stack developer iOS y Android. Trabaja bastante con Python.
+Tutoriales de iniciación a la programación y desarrollo de software. Full Stack developer iOS y Android. Python.
 
 [Midulive](https://www.youtube.com/@midulive)<br>
 Streamings sobre Desarrollo Full Stack con JavaScript 
