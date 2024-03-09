@@ -23,9 +23,9 @@ En inglés, son gratuitos e incluyen rutas para:<br>
 
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) <br>
-Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: 
-✅ Stack MERN (MongoDB, Express, React y NodeJS) 
-✅ o Ruby/Ruby in Rails.
+Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
+✅ Stack MERN (MongoDB, Express, React y NodeJS) <br>
+✅ o Ruby/Ruby in Rails.<br>
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn/) <br>
 Desarrollo web Full Stack. También cursos de Python y aplicaciones como computación científica, seguridad, análisis de datos.
