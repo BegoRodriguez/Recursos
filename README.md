@@ -1,4 +1,4 @@
-# Recursos
+# Recursos gratuitos de programación
 Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos gratuitos que considero interesantes y he ido encontrando.
 
 # Cursos
