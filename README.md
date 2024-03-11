@@ -2,6 +2,14 @@
 Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos gratuitos que considero interesantes y he ido encontrando.
 
 # Cursos
+[Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
+En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
+✅ Generative AI<br>
+✅ Cybersecurity<br>
+✅ Software Developer<br>
+✅ Systems administrator<br>
+✅ Data Analyst<br>
+
 [JetBrains Academy](https://academy.jetbrains.com/)<br>
 Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
 
@@ -10,17 +18,9 @@ Programa de certificación de MongoDB  (Bases de datos no relacionales) en espa�
 
 [Google Cloud](https://www.cloudskillsboost.google/paths)<br>
 Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: <br>
-✅ Data Analyst<br>
-✅ Data Engineer<br>
-✅ Database Engineer<br>
-
-[Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
-En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
-✅ Generative AI<br>
-✅ Cybersecurity<br>
-✅ Software Developer<br>
-✅ Systems administrator<br>
-✅ Data Analyst<br>
+✅ [Data Analyst](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#data-analyst-learning-path)<br>
+✅ [Data Engineer](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#data-engineer-learning-path)<br>
+✅ [Database Engineer](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#database-engineer-learning-path)<br>
 
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) <br>
