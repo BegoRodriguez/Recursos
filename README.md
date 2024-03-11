@@ -15,7 +15,8 @@ Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para
 ✅ Database Engineer<br>
 
 [Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
-En español, son gratuitos e incluyen rutas para (entre otras):<br>
+En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
+✅ Generative AI<br>
 ✅ Cybersecurity<br>
 ✅ Software Developer<br>
 ✅ Systems administrator<br>
@@ -32,9 +33,6 @@ Desarrollo web Full Stack. También cursos de Python y aplicaciones como computa
 
 [FullStackOpen](https://fullstackopen.com/en/)<br> 
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
-
-# Cursos IA Gratuitos
-[LinkedIn Learning](https://www.linkedin.com/pulse/cursos-gratuitos-para-desarrollar-habilidades-de-ia-sergio-r-sol%2525C3%2525ADs-yjpuf/?trackingId=TDPAryWjShiSJiN%2B29%2BaSQ%3D%3D)
 
 # Streamers en español
 [MoureDev by Brais Moure](https://www.youtube.com/@mouredev) <br>
