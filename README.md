@@ -26,7 +26,7 @@ Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para
 [The Odin Project](https://www.theodinproject.com/) <br>
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
 ✅ Stack MERN (MongoDB, Express, React y NodeJS) <br>
-✅ Ruby/Ruby in Rails.<br>
+✅ Ruby/Ruby in Rails (BD SQL).<br>
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn/) <br>
 Desarrollo web Full Stack. También cursos de Python y aplicaciones como computación científica, seguridad, análisis de datos.
