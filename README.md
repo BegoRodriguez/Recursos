@@ -26,6 +26,9 @@ Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para
 ✅ [Database Engineer](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#database-engineer-learning-path)<br>
 ✅ [Machine Learning](https://www.cloudskillsboost.google/paths/17)<br>
 
+[edX](https://learning.edx.org/)<br>
+En esta plataforma hay cursos gratuitos de Harvard. Los más famosos son los de computación y Python.
+
 # Cursos Full Stack Gratuitos
 [The Odin Project](https://www.theodinproject.com/) <br>
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
