@@ -14,6 +14,7 @@ En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas 
 Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
 
 [Android](https://developer.android.com/courses?hl=es-419)<br>
+Parecen ir desde lo más básico a funciones avanzadas.
 
 [MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)<br>
 Programa de certificación de MongoDB  (Bases de datos no relacionales) en español.
