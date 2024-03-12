@@ -24,7 +24,7 @@ Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para
 ✅ [Data Analyst](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#data-analyst-learning-path)<br>
 ✅ [Data Engineer](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#data-engineer-learning-path)<br>
 ✅ [Database Engineer](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#database-engineer-learning-path)<br>
-✅ [Machine Learning](https://www.cloudskillsboost.google/paths/17)<br>
+✅ [Machine Learning](https://www.cloudskillsboost.google/paths/17). (Este no es de certificación)
 
 [edX](https://learning.edx.org/)<br>
 En esta plataforma hay cursos gratuitos de Harvard [CS50](https://pll.harvard.edu/catalog?keywords=cs50). Los más famosos son los de computación y Python. 
