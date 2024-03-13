@@ -10,6 +10,10 @@ En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas 
 ✅ Systems administrator<br>
 ✅ Data Analyst<br>
 
+[Cursos para beginners de Cisco]<br>https://skillsforall.com/catalog?category=course&level=beginner
+Hay de todo, Sistemas Operativos, Hardware, Redes, Logistica, Internet de las Cosas e incluso emprendimiento.
+En programación los introductorios son de JavaScript y Python.
+
 Cursos para beginners de Microsoft<br>
 Son repositorios de GitHub y en algunos casos piden usar CodeSpace o su IA:
 ✅[Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)JavaScript, HTML, and CSS así que solo es Front-End. Tiene opcion de usar CodeSpace ya que es un repositorio en GitHub.<br>
