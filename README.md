@@ -1,7 +1,7 @@
 # Recursos gratuitos de programación
 Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos gratuitos que considero interesantes y he ido encontrando.
 
-# Cursos
+# Cursos Introductorios en General sobre diferentes temas
 [Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
 En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
 ✅ Generative AI<br>
