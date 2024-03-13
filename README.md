@@ -11,7 +11,7 @@ En español, de LinkedIn Learning y Microsoft, son gratuitos hasta 2025, cortos 
 ✅ Data Analyst<br>
 
 [Cursos de Cisco Networking Academy](https://skillsforall.com/catalog?category=course&language=es-xl)<br>
-Hay de todo, Sistemas Operativos, Hardware, Redes, Logistica, Internet de las Cosas e incluso emprendimiento.
+Hay de todo en español, Sistemas Operativos, Hardware, Redes, Logistica, Internet de las Cosas e incluso emprendimiento.
 En programación los introductorios son de JavaScript y Python.
 
 Cursos para beginners de Microsoft<br>
