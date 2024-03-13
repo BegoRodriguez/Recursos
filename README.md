@@ -75,6 +75,8 @@ Programación en Java
 [Securiters](https://www.youtube.com/@Securiters)<br>
 Podcast de divulgación de contenido de ciberseguridad en Español
 
-# Colecciones de recursos
+# Otras colecciones de recursos
+[Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books)<br>
+Compilación de libros de programación en Inglés
 [Resources for learning Spring](https://github.com/spring-office-hours/resources-learning-spring)<br> 
 Colección de recursos para aprender Spring (en Inglés)
