@@ -16,10 +16,10 @@ En programación los introductorios son de JavaScript y Python.
 
 Cursos para beginners de Microsoft<br>
 Son repositorios de GitHub y en algunos casos parece que explican cosas de como usar CodeSpace, la extensión de Copilot o GitHub:<br>
-✅[Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/): JavaScript, HTML, and CSS así que solo es Front-End. Tiene opcion de usar CodeSpace ya que es un repositorio en GitHub.<br>
-✅[AI for Begginers](https://github.com/microsoft/ai-for-beginners): Hay otros de [Generative AI](https://github.com/microsoft/generative-ai-for-beginners/) y [Machine Learning](https://github.com/microsoft/ML-For-Beginners?tab=readme-ov-file#readme)<br>
-✅[XR for Begginers](https://github.com/microsoft/xr-development-for-beginners): Intro a la realidad extendida<br>
-✅[IoT for Begginers](https://github.com/microsoft/IoT-For-Beginners): Lo enfocan bastante en agricultura<br>
+✅ [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/): JavaScript, HTML, and CSS así que solo es Front-End. Tiene opcion de usar CodeSpace ya que es un repositorio en GitHub.<br>
+✅ [AI for Begginers](https://github.com/microsoft/ai-for-beginners): Hay otros de [Generative AI](https://github.com/microsoft/generative-ai-for-beginners/) y [Machine Learning](https://github.com/microsoft/ML-For-Beginners?tab=readme-ov-file#readme)<br>
+✅ [XR for Begginers](https://github.com/microsoft/xr-development-for-beginners): Intro a la realidad extendida<br>
+✅ [IoT for Begginers](https://github.com/microsoft/IoT-For-Beginners): Lo enfocan bastante en agricultura<br>
 
 [JetBrains Academy](https://academy.jetbrains.com/)<br>
 Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
@@ -52,8 +52,6 @@ Desarrollo web Full Stack. También cursos de Python y aplicaciones como computa
 
 [FullStackOpen](https://fullstackopen.com/en/)<br> 
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
-
-
 
 # Streamers en español
 [MoureDev by Brais Moure](https://www.youtube.com/@mouredev) <br>
