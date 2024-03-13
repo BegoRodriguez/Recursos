@@ -4,7 +4,7 @@ Compilación de recursos gratuitos de programación, bases de datos y tecnologí
 # Cursos Introductorios sobre diferentes temas
 [Skills for the Digital Economy de LinkedIn Learning y Microsoft](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
 En español, son gratuitos hasta 2025, muy introductorios y cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
-✅ Generative AI<br> (*este lo he hecho y es informativo y entretenido sobre todo si usais Copilot*)
+✅ Generative AI (*este lo he hecho y es informativo y entretenido sobre todo si usais Copilot*)<br>
 ✅ Cybersecurity<br>
 ✅ Software Developer<br>
 ✅ Systems administrator<br>
