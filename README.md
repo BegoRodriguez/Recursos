@@ -10,6 +10,13 @@ En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas 
 ✅ Systems administrator<br>
 ✅ Data Analyst<br>
 
+Cursos para beginners de Microsoft<br>
+Son repositorios de GitHub y en algunos casos piden usar CodeSpace o su IA:
+✅[Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)JavaScript, HTML, and CSS así que solo es Front-End. Tiene opcion de usar CodeSpace ya que es un repositorio en GitHub.<br>
+✅[AI for Begginers](https://github.com/microsoft/ai-for-beginners)Hay otros de [Generative AI]([https://github.com/microsoft/generative-ai-for-beginners/tree/main](https://github.com/microsoft/generative-ai-for-beginners/) y [Machine Learning](https://github.com/microsoft/ML-For-Beginners?tab=readme-ov-file#readme)<br>
+✅[XR for Begginers](https://github.com/microsoft/xr-development-for-beginners)<br>
+✅[IoT for Begginers](https://github.com/microsoft/IoT-For-Beginners)<br>
+
 [JetBrains Academy](https://academy.jetbrains.com/)<br>
 Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
 
@@ -30,7 +37,11 @@ Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para
 En esta plataforma hay cursos gratuitos de Harvard [CS50](https://pll.harvard.edu/catalog?keywords=cs50). Los más famosos son los de computación y Python. 
 Aunque hay otros como ciberseguridad y videojuegos.
 
-# Cursos Full Stack Gratuitos
+# Cursos Desarrollo Web Gratuitos
+
+
+ 
+
 [The Odin Project](https://www.theodinproject.com/) <br>
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
 ✅ Stack MERN (MongoDB, Express, React y NodeJS) <br>
@@ -41,6 +52,8 @@ Desarrollo web Full Stack. También cursos de Python y aplicaciones como computa
 
 [FullStackOpen](https://fullstackopen.com/en/)<br> 
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
+
+
 
 # Streamers en español
 [MoureDev by Brais Moure](https://www.youtube.com/@mouredev) <br>
