@@ -19,7 +19,7 @@ Cursos para beginners de Microsoft<br>
 Son repositorios de GitHub y en algunos casos piden usar CodeSpace o su IA:<br>
 ✅[Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/): JavaScript, HTML, and CSS así que solo es Front-End. Tiene opcion de usar CodeSpace ya que es un repositorio en GitHub.<br>
 ✅[AI for Begginers](https://github.com/microsoft/ai-for-beginners): Hay otros de [Generative AI](https://github.com/microsoft/generative-ai-for-beginners/) y [Machine Learning](https://github.com/microsoft/ML-For-Beginners?tab=readme-ov-file#readme)<br>
-✅[XR for Begginers](https://github.com/microsoft/xr-development-for-beginners): Intro a la realidad virtual<br>
+✅[XR for Begginers](https://github.com/microsoft/xr-development-for-beginners): Intro a la realidad extendida<br>
 ✅[IoT for Begginers](https://github.com/microsoft/IoT-For-Beginners): Lo enfocan bastante en agricultura<br>
 
 [JetBrains Academy](https://academy.jetbrains.com/)<br>
