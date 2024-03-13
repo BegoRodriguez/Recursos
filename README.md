@@ -42,10 +42,6 @@ En esta plataforma hay cursos gratuitos de Harvard [CS50](https://pll.harvard.ed
 Aunque hay otros como ciberseguridad y videojuegos.
 
 # Cursos Desarrollo Web Gratuitos
-
-
- 
-
 [The Odin Project](https://www.theodinproject.com/) <br>
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
 ✅ Stack MERN (MongoDB, Express, React y NodeJS) <br>
@@ -78,5 +74,6 @@ Podcast de divulgación de contenido de ciberseguridad en Español
 # Otras colecciones de recursos
 [Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books)<br>
 Compilación de libros de programación en Inglés
+
 [Resources for learning Spring](https://github.com/spring-office-hours/resources-learning-spring)<br> 
 Colección de recursos para aprender Spring (en Inglés)
