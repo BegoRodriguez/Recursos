@@ -44,12 +44,12 @@ Aunque hay otros como programación de móviles (sin Java: React), cibersegurida
 # Cursos Desarrollo Web Gratuitos
 [The Odin Project](https://www.theodinproject.com/) <br>
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
-✅ Stack MERN (MongoDB, Express, React y NodeJS) <br> (*Hice Foundations y parte de esta ruta y está muy bien, actual y con muchos recursos adicionales*)
+✅ Stack MERN (MongoDB, Express, React y NodeJS) (*Hice Foundations y parte de esta ruta y está muy bien, actual y con muchos recursos adicionales*) <br>
 ✅ Ruby/Ruby in Rails (BD SQL).<br>
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn/) <br>
-Desarrollo web Full Stack. También cursos de Python y aplicaciones como computación científica, seguridad, análisis de datos. *He hecho los modulos de
-Responsive Web y JavaScript y algo de Bases de datos Relacionales. El de FrontEnd Libraries está algo desactualizado sobre todo en React.* 
+Desarrollo web Full Stack. También cursos de Python y aplicaciones como computación científica, seguridad, análisis de datos. <br>
+*He hecho los modulos de Responsive Web y JavaScript y algo de Bases de datos Relacionales. El de FrontEnd Libraries está algo desactualizado sobre todo en React.* 
 
 [FullStackOpen](https://fullstackopen.com/en/)<br> 
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
