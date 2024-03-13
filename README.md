@@ -1,5 +1,5 @@
-# Recursos gratuitos de programación
-Compilación de recursos gratuitos de programación. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos gratuitos que considero interesantes y he ido encontrando.
+# Recursos gratuitos
+Compilación de recursos gratuitos de programación, bases de datos y tecnología en general. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos que considero interesantes y he ido encontrando (Obviamente no los he hecho todos, solo algunos).
 
 # Cursos Introductorios sobre diferentes temas
 [Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
