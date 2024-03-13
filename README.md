@@ -10,7 +10,7 @@ En español, son gratuitos hasta 2025, cortos (unas 6 horas más o menos) e incl
 ✅ Systems administrator<br>
 ✅ Data Analyst<br>
 
-[Cursos de Cisco](https://skillsforall.com/catalog?category=course&language=es-xl)<br>
+[Cursos de Cisco Networking Academy](https://skillsforall.com/catalog?category=course&language=es-xl)<br>
 Hay de todo, Sistemas Operativos, Hardware, Redes, Logistica, Internet de las Cosas e incluso emprendimiento.
 En programación los introductorios son de JavaScript y Python.
 
