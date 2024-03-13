@@ -11,7 +11,6 @@ En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas 
 ✅ Data Analyst<br>
 
 [Cursos para beginners de Cisco](https://skillsforall.com/catalog?category=course&level=beginner&language=es-xl)<br>
-
 Hay de todo, Sistemas Operativos, Hardware, Redes, Logistica, Internet de las Cosas e incluso emprendimiento.
 En programación los introductorios son de JavaScript y Python.
 
