@@ -3,7 +3,7 @@ Compilación de recursos gratuitos de programación. No pretende ser extensiva, 
 
 # Cursos Introductorios sobre diferentes temas
 [Skills for the Digital Economy](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
-En español, son gratuitos, cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
+En español, son gratuitos hasta 2025, cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
 ✅ Generative AI<br>
 ✅ Cybersecurity<br>
 ✅ Software Developer<br>
