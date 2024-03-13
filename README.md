@@ -1,10 +1,10 @@
 # Recursos gratuitos
-Compilación de recursos gratuitos de programación, bases de datos y tecnología en general. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos que considero interesantes y he ido encontrando (Obviamente no los he hecho todos, solo algunos).
+Compilación de recursos gratuitos de programación, bases de datos y tecnología en general. No pretende ser extensiva, sino que pensad en la misma como una colección de recursos que considero interesantes y he ido encontrando (*Obviamente no los he hecho todos, solo algunos*).
 
 # Cursos Introductorios sobre diferentes temas
 [Skills for the Digital Economy de LinkedIn Learning y Microsoft](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
 En español, son gratuitos hasta 2025, muy introductorios y cortos (unas 6 horas más o menos) e incluyen rutas para (entre otras):<br>
-✅ Generative AI<br>
+✅ Generative AI<br> (*este lo he hecho y es informativo y entretenido sobre todo si usais Copilot*)
 ✅ Cybersecurity<br>
 ✅ Software Developer<br>
 ✅ Systems administrator<br>
@@ -28,7 +28,7 @@ Está organizado por materias o por áreas y cubre diferentes lenguajes incluyen
 Parecen ir desde lo más básico a funciones avanzadas.
 
 [MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)<br>
-Programa de certificación de MongoDB  (Bases de datos no relacionales) en español.
+Programa de certificación de MongoDB  (Bases de datos no relacionales) en español. *Lo estoy haciendo y está bastante bien.* 
 
 [Google Cloud](https://www.cloudskillsboost.google/paths)<br>
 Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: <br>
@@ -44,11 +44,12 @@ Aunque hay otros como programación de móviles (sin Java: React), cibersegurida
 # Cursos Desarrollo Web Gratuitos
 [The Odin Project](https://www.theodinproject.com/) <br>
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
-✅ Stack MERN (MongoDB, Express, React y NodeJS) <br>
+✅ Stack MERN (MongoDB, Express, React y NodeJS) <br> (*Hice Foundations y parte de esta ruta y está muy bien, actual y con muchos recursos adicionales*)
 ✅ Ruby/Ruby in Rails (BD SQL).<br>
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn/) <br>
-Desarrollo web Full Stack. También cursos de Python y aplicaciones como computación científica, seguridad, análisis de datos.
+Desarrollo web Full Stack. También cursos de Python y aplicaciones como computación científica, seguridad, análisis de datos. *He hecho los modulos de
+Responsive Web y JavaScript y algo de Bases de datos Relacionales. El de FrontEnd Libraries está algo desactualizado sobre todo en React.* 
 
 [FullStackOpen](https://fullstackopen.com/en/)<br> 
 Desarrollo web Full Stack basado en JavaScript: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
