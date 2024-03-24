@@ -21,7 +21,7 @@ En programación los introductorios son de JavaScript y Python.
 Son repositorios de GitHub y en algunos casos parece que explican cosas de como usar CodeSpace, la extensión de Copilot o GitHub:<br>
 ✅ [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/): JavaScript, HTML, and CSS así que solo es Front-End. Tiene opcion de usar CodeSpace ya que es un repositorio en GitHub.<br>
 ✅ [AI for Beginners](https://github.com/microsoft/ai-for-beginners): Hay otros de [Generative AI](https://github.com/microsoft/generative-ai-for-beginners/) y [Machine Learning](https://github.com/microsoft/ML-For-Beginners?tab=readme-ov-file#readme)<br>
-✅ [Cibersecurity for Beginners](https://github.com/microsoft/Security-101??WT.mc_id=academic-96948-sayoung)
+✅ [Cibersecurity for Beginners](https://github.com/microsoft/Security-101??WT.mc_id=academic-96948-sayoung)<br>
 ✅ [XR for Beginners](https://github.com/microsoft/xr-development-for-beginners): Intro a la realidad extendida<br>
 ✅ [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners): Lo enfocan bastante en agricultura<br>
 
