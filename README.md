@@ -26,7 +26,7 @@ Son repositorios de GitHub y en algunos casos parece que explican cosas de como 
 ✅ [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners): Lo enfocan bastante en agricultura<br>
 
 [JetBrains Academy](https://academy.jetbrains.com/)<br>
-Está organizado por materias o por áreas y cubre diferentes lenguajes incluyendo Java y Kotlin (En inglés).
+Está organizado por materias o por áreas, cubre diferentes lenguajes incluyendo Java, Kotlin y tiene integración con Intellij IDEA (En inglés).
 
 [Android](https://developer.android.com/courses?hl=es-419)<br>
 Parecen ir desde lo más básico a funciones avanzadas.
