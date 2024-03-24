@@ -15,7 +15,7 @@ En español, son gratuitos hasta 2025, muy introductorios y cortos (unas 6 horas
 
 [Cursos de Cisco Networking Academy](https://skillsforall.com/catalog?category=course&language=es-xl)<br>
 Hay de todo en español, Sistemas Operativos, Hardware, Redes, Logistica, Internet de las Cosas e incluso emprendimiento.
-En programación los introductorios son de JavaScript y Python. Hay dos path para preparar en certificaciones:
+En programación los introductorios son de JavaScript y Python. Hay dos path para preparar en certificaciones:<br>
 ✅ [Junior Cybersecurity Analyst](https://skillsforall.com/es/career-path/cybersecurity?courseLang=en-US)<br>
 ✅ [Network Technician](https://skillsforall.com/es/career-path/network-technician?courseLang=en-US)<br>
 
