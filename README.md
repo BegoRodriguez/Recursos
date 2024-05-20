@@ -5,9 +5,9 @@ Compilación de recursos gratuitos de programación, bases de datos y tecnologí
 [Roadmap.sh](https://roadmap.sh/)<br> Si estáis logeados podéis marcar vuestro progreso.
 
 # Primeros pasos
-✅ [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html#variables)
-✅ [Dart](https://dart.dev/language)
-✅ [JavaScript](https://web.dev/learn/javascript)
+✅ [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html#variables)<br>
+✅ [Dart](https://dart.dev/language)<br>
+✅ [JavaScript](https://web.dev/learn/javascript)<br>
 
 # Cursos Introductorios sobre diferentes temas
 [Skills for the Digital Economy de LinkedIn Learning y Microsoft](https://opportunity.linkedin.com/skills-for-in-demand-jobs) <br>
@@ -32,7 +32,7 @@ Son repositorios de GitHub y en algunos casos parece que explican cosas de como 
 ✅ [XR for Beginners](https://github.com/microsoft/xr-development-for-beginners): Intro a la realidad extendida<br>
 ✅ [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners): Lo enfocan bastante en agricultura<br>
 
-[MOOC Universidad de Helsinki](https://java-programming.mooc.fi/)
+[MOOC Universidad de Helsinki](https://java-programming.mooc.fi/)<br>
 Algo del contenido de este curso lo hemos visto durante el curso pero puede ayudar a afianzar conceptos ya que propone ejercicios y ve algunas cosas de un modo distinto. (En inglés)
 
 [JetBrains Academy](https://academy.jetbrains.com/)<br>
