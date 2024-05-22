@@ -32,7 +32,7 @@ Son repositorios de GitHub y en algunos casos parece que explican cosas de como 
 ✅ [XR for Beginners](https://github.com/microsoft/xr-development-for-beginners): Intro a la realidad extendida<br>
 ✅ [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners): Lo enfocan bastante en agricultura<br>
 
-[MOOC Universidad de Helsinki](https://java-programming.mooc.fi/)<br>
+[MOOC Java Universidad de Helsinki](https://java-programming.mooc.fi/)<br>
 Algo del contenido de este curso lo hemos visto durante el curso pero puede ayudar a afianzar conceptos ya que propone ejercicios y ve algunas cosas de un modo distinto. (En inglés)
 
 [JetBrains Academy](https://academy.jetbrains.com/)<br>
