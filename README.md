@@ -87,6 +87,9 @@ Programación en Java
 [Securiters](https://www.youtube.com/@Securiters)<br>
 Podcast de divulgación de contenido de ciberseguridad en Español
 
+[DevExpert - Programación Android y Kotlin](https://www.youtube.com/@devexpert_io)<br>
+Programación en Android y Kotlin
+
 # Otras colecciones de recursos
 [Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books)<br>
 Compilación de libros de programación en Inglés
