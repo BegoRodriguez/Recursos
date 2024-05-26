@@ -5,8 +5,8 @@ Compilación de recursos gratuitos de programación, bases de datos y tecnologí
 [Roadmap.sh](https://roadmap.sh/)<br> Si estáis logeados podéis marcar vuestro progreso.
 
 # Primeros pasos
-✅ [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html#variables)<br>
-✅ [Dart](https://dart.dev/language)<br>
+✅ [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html#variables) [IDE propio sencillo para compbrobar la sintaxis básica](https://play.kotlinlang.org/)<br> 
+✅ [Dart](https://dart.dev/language) [IDE propio sencillo para comprobar la sintaxis básica](https://dartpad.dev/) https://dartpad.dev/<br>
 ✅ [JavaScript](https://web.dev/learn/javascript)<br>
 
 # Cursos Introductorios sobre diferentes temas
@@ -35,8 +35,11 @@ Son repositorios de GitHub y en algunos casos parece que explican cosas de como 
 [MOOC Java Universidad de Helsinki](https://java-programming.mooc.fi/)<br>
 Algo del contenido de este curso lo hemos visto durante el curso pero puede ayudar a afianzar conceptos ya que propone ejercicios y ve algunas cosas de un modo distinto. (En inglés)
 
-[JetBrains Academy](https://academy.jetbrains.com/)<br>
-Está organizado por materias o por áreas, cubre diferentes lenguajes incluyendo Java, Kotlin y tiene integración con Intellij IDEA (En inglés).
+[MOOC Python Universidad de Helsinki](https://programming-23.mooc.fi/)<br>
+Tienen también un MOOC de Python (En inglés)
+
+[JetBrains Academy - Hyperskill](https://academy.jetbrains.com/)<br>
+Está organizado por materias o por áreas, cubre diferentes lenguajes incluyendo Java, Kotlin, Spring y tiene integración con Intellij IDEA (En inglés).
 
 [Android](https://developer.android.com/courses?hl=es-419)<br>
 Parecen ir desde lo más básico a funciones avanzadas.
