@@ -50,6 +50,9 @@ Son vídeos de Youtube y parece bastante completo
 [MongoDB](https://sites.google.com/mongodb.com/certification-program-spain/programa)<br>
 Programa de certificación de MongoDB  (Bases de datos no relacionales) en español. *Lo estoy haciendo y está bastante bien.* 
 
+[React](https://cursoreact.dev/)<br>
+De MiduDev. Todos sus vídeos sobre el tema de una forma ordenada.
+
 [Google Cloud](https://www.cloudskillsboost.google/paths)<br>
 Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: <br>
 ✅ [Data Analyst](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#data-analyst-learning-path)<br>
