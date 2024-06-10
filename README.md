@@ -64,6 +64,9 @@ Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para
 En esta plataforma hay cursos gratuitos de Harvard [CS50](https://pll.harvard.edu/catalog?keywords=cs50). Los más famosos son los de [computación](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) y [Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python). 
 Aunque hay otros como programación de móviles (sin Java: React), ciberseguridad y videojuegos.
 
+[kaggle](https://www.kaggle.com/learn)<br>
+Curso gratuito de ciencia de datos: Python, Machine Learning, SQL, Pandas...
+
 # Cursos Desarrollo Web Gratuitos
 [The Odin Project](https://www.theodinproject.com/) <br>
 Desarrollo web Full Stack. Refuerzo de HTML/CSS. JavaScript. Tiene elección de dos rutas: <br>
