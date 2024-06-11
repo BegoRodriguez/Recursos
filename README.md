@@ -42,7 +42,7 @@ Tienen también un MOOC de Python (En inglés)
 Está organizado por materias o por áreas, cubre diferentes lenguajes incluyendo Java, Kotlin, Spring y tiene integración con Intellij IDEA (En inglés).
 
 [Android](https://developer.android.com/courses?hl=es-419)<br>
-Parecen ir desde lo más básico a funciones avanzadas. Para empezar está muy bien el de Aspectos Básicos de Android con Compose(https://developer.android.com/courses/android-basics-compose/course?hl=es-419)
+Parecen ir desde lo más básico a funciones avanzadas. Para empezar está muy bien el de Aspectos Básicos de Android con Compose (https://developer.android.com/courses/android-basics-compose/course?hl=es-419)
 
 [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists)<br>
 Son vídeos de Youtube y parece bastante completo
