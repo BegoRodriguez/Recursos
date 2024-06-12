@@ -53,6 +53,9 @@ Programa de certificación de MongoDB  (Bases de datos no relacionales) en espa�
 [React](https://cursoreact.dev/)<br>
 De MiduDev. Todos sus vídeos sobre el tema de una forma ordenada.
 
+[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)<br>
+Documentación oficial de Microsoft.
+
 [Google Cloud](https://www.cloudskillsboost.google/paths)<br>
 Programas de certificación de Google Cloud. Son gratuitos e incluyen rutas para: <br>
 ✅ [Data Analyst](https://cloud.google.com/training/data-engineering-and-analytics?hl=es-419#data-analyst-learning-path)<br>
