@@ -4,7 +4,7 @@ Compilación de recursos gratuitos de programación, bases de datos y tecnologí
 # Roadmaps
 [Roadmap.sh](https://roadmap.sh/)<br> Si estáis logeados podéis marcar vuestro progreso.
 
-# Primeros pasos
+# Primeros pasos en algunos lenguajes
 ✅ [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html#variables) Dispone de IDE propio sencillo para compbrobar la sintaxis básica: [KotlinLang](https://play.kotlinlang.org/)<br> 
 ✅ [Dart](https://dart.dev/language) Dispone de IDE propio sencillo para comprobar la sintaxis básica: [Dartpad](https://dartpad.dev/)<br>
 ✅ [JavaScript](https://web.dev/learn/javascript)<br>
